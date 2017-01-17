@@ -2,7 +2,7 @@
 A python script that determines the quality of red wine based on the its features.
 
 # Instructions
-Have the csv file in the same directory of this script and run it.
+Have the csv file in the same directory of this script and run it. The script uses the dataset from https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
 # Initial Goals From Finishing This Project
 - Learn about classification with k nearest neighbors [x]
